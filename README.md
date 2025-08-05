@@ -1,1 +1,1 @@
-# PRODIGY
+# PRODIGY Internship Projects
